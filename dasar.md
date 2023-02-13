@@ -15,13 +15,9 @@ git push -u origin master
 untuk printah upstream jadi file yang dirubah aja yang di upload
 ## menambahkan branch
 
-```
 # git branch <nama branch>
-```
 ###### Untuk melihat cabang apa saja yang ada di repositori, gunakan perintah
-```
 git branch.
-```
 
 Contoh:
 
@@ -38,7 +34,8 @@ Pada repositori, buatlah sebuah cabang baru.
 git branch halaman_login
 Setelah itu, pindah ke cabang yang baru saja kita buat dengan perintah:
 
-git checkout halaman_login
+## git checkout <nama_branch>
+halaman_login
 Lalu tambahkan file login.html, isinya terserah anda.
 
 
