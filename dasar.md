@@ -1,7 +1,10 @@
+<h1>render html h1</h1>
 ##
 
 git init
+#
 git add README.md
+#
 git commit -m "first commit"
 #### -m (message atu pesan mungkin sih :joy: )
 git remote add origin <remote>
