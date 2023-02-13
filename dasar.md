@@ -38,6 +38,18 @@ Setelah itu, pindah ke cabang yang baru saja kita buat dengan perintah:
 halaman_login
 Lalu tambahkan file login.html, isinya terserah anda.
 
+ 
+  ## git clone pada spesifik branch
+  
+  git clone --branch <nama_branch> <git_URL>
+  atau
+  git clone -b <branchname> <remote-repo-url>
+  
+Here -b is just an alias for --branch
+  
+  # git branch -a
+  melihat semua branch pada git 
+  -a = all
 
 
 
