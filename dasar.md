@@ -7,4 +7,9 @@ git remote add origin <remote>
 
 git push -u origin master
 
+## -u
+untuk printah upstream jadi file yang dirubah aja yang di upload
+## master
+ini adalah branch bisa
+# git branch <nama branch>
 ketik amenambahkan file harus kasih commit
