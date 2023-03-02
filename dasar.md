@@ -34,6 +34,7 @@ Pada repositori, buatlah sebuah cabang baru.
 git branch halaman_login
 Setelah itu, pindah ke cabang yang baru saja kita buat dengan perintah:
 
+ berpindah pada cabang bisa ikuti cara dibawah ini
 ## git checkout <nama_branch>
 halaman_login
 Lalu tambahkan file login.html, isinya terserah anda.
