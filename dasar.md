@@ -3,16 +3,17 @@
 
 git init
 #
+git add . //memasukan all file nama file
 git add README.md
 #
-git commit -m "first commit"
+git commit -m "first commit" //
 #### -m (message atu pesan mungkin sih :joy: )
 git remote add origin <remote>
 
 git push -u origin master
 
 ## -u
-untuk printah upstream jadi file yang dirubah aja yang di upload
+untuk printah **upstream** jadi file yang dirubah aja yang di upload
 ## menambahkan branch
 
 # git branch <nama branch>
@@ -23,9 +24,18 @@ Contoh:
 
 $ git branch  halaman_login
 * master
+ halaman login
 #
 Tanda bintang (*) artinya cabang yang sedang aktif atau Kita sedang berada di sana.
 
+#git checkout <>
+##perpindahan branch
+git checkout <nama_branch>
+
+##perpindahan berdasarkan **commit**
+git checkout SHA
+
+SHA : adalah sha bisa dipilih di <1234> cimmit
 Latihan
 Untuk memantapkan pemahaman tentang percabangan Git, mari kita coba praktik.
 
