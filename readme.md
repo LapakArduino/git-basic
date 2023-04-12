@@ -63,5 +63,9 @@ Here -b is just an alias for --branch
   melihat semua branch pada git 
   -a = all
 
-
+```json
+ { "nama" : "eko",
+ "age" : 23
+}
+ ````
 
