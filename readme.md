@@ -11,6 +11,8 @@ git add README.md
 git commit -m "first commit" //
 #### -m (message atu pesan mungkin sih :joy: )
 git remote add origin <remote>
+###### example is here: :joy
+git remote add origin https://github.com/LapakArduino/pad.git
 
 git push -u origin master
 
