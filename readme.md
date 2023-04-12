@@ -1,6 +1,7 @@
 # git-basic
 <h1>render html h1</h1>
 ##
+H<sub>2</sub>O
 
 git init
 #
